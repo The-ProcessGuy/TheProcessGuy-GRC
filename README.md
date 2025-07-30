@@ -36,13 +36,19 @@ Tools: Archer GRC, Risk Rhino, ServiceNow, Jira, Confluence, Excel, Power BI, Va
 | Controls Mapping of Global Healthcare Data Protection Policy to NIST SP 800-53 Rev. 5 security control | <a href="https://drive.google.com/file/d/1veo0eqwf8IDnqA3CdQr-MWcCM8Pd5Eq1/view?usp=drive_link">Detection Lab</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+### Governance, Risk, & Compliance
+<div>
+    <img src="https://img.shields.io/badge/-ServiceNow%20GRC-0A9396?&style=for-the-badge&logo=servicenow&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Archer-0074A6?&style=for-the-badge&logo=rsa&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Risk%20Rhino-5E548E?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Vanta-6F3FF5?&style=for-the-badge&logo=vanta&logoColor=white" />
+</div>
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -63,7 +69,7 @@ Tools: Archer GRC, Risk Rhino, ServiceNow, Jira, Confluence, Excel, Power BI, Va
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
  <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
