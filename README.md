@@ -19,7 +19,7 @@ Tools: Archer GRC, Risk Rhino, ServiceNow, Jira, Confluence, Excel, Power BI, Va
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Incident Response Planning and Execution      | <a href="https://google.com](https://drive.google.com/file/d/1BB-tyEEB3HaHZc34FYYGPsoVJM8Y999R/view?usp=drive_link">Detection Lab</a>| 
+| Incident Response Planning and Execution      | <a href="https://drive.google.com/file/d/1BB-tyEEB3HaHZc34FYYGPsoVJM8Y999R/view?usp=drive_link">Detection Lab</a>| 
 | ISA IEC 62443 OT Security ssessment      | <a href="https://drive.google.com/file/d/1lEcQ-iEpcooOg75RUyNmAJk7shDqQOUN/view?usp=drive_link">Detection Lab</a>|
 | AWS S3 Procedure Document     | <a href="https://google.com](https://drive.google.com/file/d/1gY6w50aoyvq13HUuOI-Yv3A_-bFdcaRg/view?usp=drive_link">Detection Lab</a>|
 | TPRM Gap Analysis Scorecard  | <a href="https://drive.google.com/file/d/1GHl5hgbJ3VY9U7Xvq_DWNFOa3g6a5oj3/view?usp=drive_link">Detection Lab</a>|
